@@ -1,1 +1,1 @@
-Name: Vinay Kumar Reddy Gunuguntla ID:700745726 Code file:NN-Assignment1 Document:Neural Networks & Deep Learning - ICP-2 Link:
+Name: Vinay Kumar Reddy Gunuguntla ID:700745726 Code file:NN-Assignment1 Document:Neural Networks & Deep Learning - ICP-2 Link:https://drive.google.com/file/d/1FV0AiwA2fhWOltAmRxoN7V9GLMaO_tKO/view?usp=sharing
